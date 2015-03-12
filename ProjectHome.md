@@ -1,0 +1,1 @@
+Vivid is a simple, light-weight DirectX 9 engine built in C++. Vivid offers full support for advanced custom shaders.
